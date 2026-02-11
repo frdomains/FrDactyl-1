@@ -22,6 +22,9 @@ a.logo {
 nav.navbar.navbar-static-top, a.logo, .sidebar {
   background-color: var(--nav-color);
 }
+.skin-blue .main-header .navbar {
+  background-color: var(--nav-color);
+}
 
 /* Turn off image dragging */
 

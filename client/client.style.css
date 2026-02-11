@@ -3,10 +3,10 @@
 
 
 :root {
-  --background-color: #10103a;
+  --background-color: #0c0c26;
   --accent-color: #1b1b76;
-  --item-color: #1f212f;
-  --item-secondary-color: #2b2c39;
+  --item-color: #2d2f4a;
+  --item-secondary-color: #940303;
   --border-radii: 10px;
   --server-list-radii: 8px;
   --server-list-padding: 1.25rem;

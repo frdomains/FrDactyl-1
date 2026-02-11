@@ -3,7 +3,8 @@
 
 
 :root {
-  --background-color: #11111c;
+  --background-color: #10103a;
+  --accent-color: #1b1b76;
   --item-color: #1f212f;
   --item-secondary-color: #2b2c39;
   --border-radii: 10px;
@@ -11,6 +12,10 @@
   --server-list-padding: 1.25rem;
 }
 
+/*uh buton acent color */
+.Button__ButtonStyle-sc-1qu1gou-0.ZTniA {
+  background-color: var(--accent-color);
+}
 
 /* Turn off image dragging */
 

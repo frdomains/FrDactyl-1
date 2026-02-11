@@ -1,14 +1,14 @@
 # https://blueprint.zip/docs/configs/confyml
 
 info:
-  name: "Darkenate"
-  identifier: "darkenate"
-  description: "A dark theme inspired by bloom.host's colors and the Recolor theme"
-  version: "v2.0.3"
+  name: "FrDactyl"
+  identifier: "frdactyl"
+  description: "A dark theme forked from darkenate"
+  version: "v1.0.0"
   target: "beta-2026-01"
-  author: "JasonHorkles"
+  author: "MrTomiCZ"
   icon: "assets/icon.jpg"
-  website: "https://github.com/blueprint-community/extension-darkenate"
+  website: "https://github.com/frdomains/FrDactyl-1"
 
 admin:
   view: "admin/view.blade.php"

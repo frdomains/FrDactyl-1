@@ -1,5 +1,6 @@
 <h2 align="center"> FrDactyl </h2>
-<p align="center"> A Pterodactyl dark theme forked from [blueprint-community/extension-darkenate](https://github.com/blueprint-community/extension-darkenate/releases) </p>
+<p align="center"> A Pterodactyl dark theme forked from </p>
+[blueprint-community/extension-darkenate](https://github.com/blueprint-community/extension-darkenate/releases)
 
 <br>
 

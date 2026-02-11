@@ -4,7 +4,7 @@ info:
   name: "FrDactyl"
   identifier: "frdactyl"
   description: "A dark theme forked from darkenate"
-  version: "v1.0.3"
+  version: "v1.0.4"
   target: "beta-2026-01"
   author: "MrTomiCZ"
   icon: "assets/icon.jpg"

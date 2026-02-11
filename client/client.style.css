@@ -7,9 +7,15 @@
   --accent-color: #1b1b76;
   --item-color: #2d2f4a;
   --item-secondary-color: #940303;
+  --nav-color: #0f0f0f;
   --border-radii: 10px;
   --server-list-radii: 8px;
   --server-list-padding: 1.25rem;
+}
+
+/*background of navbar*/
+nav.navbar.navbar-static-top, a.logo {
+  background-color: var(--nav-color);
 }
 
 /*uh buton acent color */
@@ -49,7 +55,7 @@ a.font-header {
 /* Secondary header */
 
 div.SubNavigation-sc-lfuaoi-0.jZPsWO {
-  background-color: #1f2129 !important;
+  background-color: #10101a !important;
 }
 
 

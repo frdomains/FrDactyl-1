@@ -7,9 +7,14 @@
   --item-color: #171a2e;
   --item-secondary-color: #2d2f4a;
   --danger-zone-color: #940303;
+  --nav-color: #0f0f0f;
   --border-radii: 10px;
 }
 
+/*background of navbars*/
+nav.navbar.navbar-static-top, a.logo, .sidebar {
+  background-color: var(--nav-color);
+}
 
 /* Turn off image dragging */
 

@@ -12,6 +12,13 @@
 }
 
 /*background of navbars*/
+
+/* Header 
+nav.navbar.navbar-static-top,
+a.logo {
+  background-color: #272931 !important;
+}*/
+
 nav.navbar.navbar-static-top, a.logo, .sidebar {
   background-color: var(--nav-color);
 }
@@ -31,12 +38,6 @@ body {
 }
 
 
-/* Header */
-
-nav.navbar.navbar-static-top,
-a.logo {
-  background-color: #272931 !important;
-}
 
 
 /* Footer */

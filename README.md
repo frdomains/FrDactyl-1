@@ -1,31 +1,19 @@
-<!-- START BLUEPRINT-MANAGED README -->
-
-> [!IMPORTANT]
-> This project is an unofficial project hosted on the [`blueprint-community`](https://github.com/blueprint-community) GitHub organization.
-> [Blueprint](https://blueprint.zip) does not create, endorse or maintain these projects.
->
-> You are free to contribute, fork and reuse sections of this codebase [in accordance with this projects' license](LICENSE).
+<h2 align="center"> FrDactyl </h2>
+<p align="center"> A Pterodactyl dark theme forked from [blueprint-community/extension-darkenate](https://github.com/blueprint-community/extension-darkenate/releases) </p>
 
 <br>
-
-<h2 align="center"> Darkenate </h2>
-<p align="center"> A Pterodactyl dark theme inspired by bloom.host's colors and the Recolor theme. </p>
-
-<br>
-
-<!-- END BLUEPRINT-MANAGED README -->
 
 ### This project requires [Blueprint](https://blueprint.zip)
 
-### Download the pre-compiled theme [here](https://github.com/blueprint-community/extension-darkenate/releases)
+### Download the pre-compiled theme [here](https://github.com/frdomains/FrDactyl-1/releases)
 
-### If you encounter any bugs or have a suggestion, please create a [GitHub issue](https://github.com/blueprint-community/extension-darkenate/issues)
+### If you encounter any bugs or have a suggestion, please create a [GitHub issue](https://github.com/frdomains/FrDactyl-1/issues)
 
 <br>
 
 ---
 
-If you enjoy this extension and you make money from running a host, please consider donating using the links to the side ❤️ ->
+BELOW ARE IMAGES THAT DO NOT APPLY TO FRDACTYL, YET THEY ARE SIMILAR
 
 ---
 

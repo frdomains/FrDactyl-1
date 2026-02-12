@@ -14,7 +14,7 @@
 }
 
 /*background of navbar*/
-nav.navbar.navbar-static-top, a.logo {
+nav.navbar.navbar-static-top, a.logo, .skin-blue .main-header .logo {
   background-color: var(--nav-color);
 }
 

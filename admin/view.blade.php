@@ -7,7 +7,7 @@
         <h3 class="box-title"><i class='bx bx-command' style='margin-right:5px;'></i>Overview</h3>
       </div>
       <div class="box-body">
-        <p>You are currently running version <code>{version}</code>.</p>
+        <p>You are currently running version <code>{version}</code>. yes yes yes yes yes yes yes yes yes yes yes yes yes yes</p>
       </div>
     </div>
 
